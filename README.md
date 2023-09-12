@@ -1,17 +1,13 @@
 # Ejemplos de elementos alineados en un documento Markdown
 
 <div align="left">
-Texto alineado a la izquierda
+## Encabezado alineado a la izquierda
 </div>
 
 <div align="center">
-Texto centrado
+## Encabezado centrado
 </div>
 
 <div align="right">
-Texto alineado a la derecha
+## Encabezado alineado a la derecha
 </div>
-
-<p style="text-align: center;"> 
-Resumen General del Proyecto de Graduacion
-</p>
