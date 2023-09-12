@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h2>Encabezado centrado</h2>
+  <h2>Encabezado nivel 2 centrado</h2>
 </div>
 
 <div align="right">
