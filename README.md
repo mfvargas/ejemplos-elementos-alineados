@@ -11,3 +11,7 @@ Texto centrado
 <div align="right">
 Texto alineado a la derecha
 </div>
+
+<p style="text-align: center;"> 
+Resumen General del Proyecto de Graduacion
+</p>
